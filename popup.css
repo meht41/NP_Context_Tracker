@@ -1,0 +1,33 @@
+body {
+  min-width: 250px;
+  font-family: Arial, sans-serif;
+  background: #fafafa;
+  padding: 14px;
+}
+h2 {
+  font-size: 1.1em;
+  margin-bottom: 9px;
+}
+input[type="text"] {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 7px;
+  margin-bottom: 10px;
+}
+button {
+  width: 100%;
+  padding: 7px;
+  background: #e4002b;
+  color: #fff;
+  border: none;
+  border-radius: 2px;
+  cursor: pointer;
+  font-size: 1em;
+}
+button:hover {
+  background: #a30020;
+}
+#status {
+  margin-top: 10px;
+  font-size: 0.98em;
+}
